@@ -75,7 +75,11 @@ Six source files were used:
 - Align inventory and marketing decisions with regional and category demand.
 - Track KPI targets over time and add cohort or customer-lifetime-value analysis in a future version.
 
+## Power BI Dashboard
+
+[Download the Interactive Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1xLmxBblLYNlnoGR2znxYc40hV_z-90NU/view?usp=sharing)
 
 **Shivji**  
 GitHub: [shivjicode](https://github.com/shivjicode)
+             
 
